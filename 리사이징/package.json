@@ -1,0 +1,8 @@
+{
+  "name": "coex-image-resize",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "build": "node tools/build-photo-assets.mjs"
+  }
+}
